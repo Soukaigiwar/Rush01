@@ -11,8 +11,7 @@ int		ft_rotate(int matrix[4][4]);
 
 void	ft_fill(int matrix[4][4], int up[4], int down[4], int left[4], int right[4])
 {
-	// as vezes da esse erro e nao sei o que fazer. Não aprendi a ideia de ponteiros corretamente.
-	printf("Por favor, não da erro 'Segmentation Fault'. Please!!!!\n");
+	
 	// resolve quando tem a frente so uma torre
 	// e coloca o numero 4.
 	int i;
