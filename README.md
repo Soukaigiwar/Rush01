@@ -10,7 +10,7 @@ We cannot repeat numbers within each row or column. And the rest is fun.
 
 
 
-My approach was to think of this game from 4 different points of view. From the bottom, left, right, and finally, by the view from the top corner.
+My approach was to think of this game from 4 different points of view. From the bottom, left, right, and finally, by the view from the top side.
 
 Once looking in that direction, imagine filling in the squares, one column at a time.
 So, when you run out of possibilities in this view, simply rotate the matrix to now, position yourself from another point of view.
